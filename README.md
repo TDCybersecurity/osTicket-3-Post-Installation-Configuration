@@ -2,24 +2,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # **osTicket: 3 Post-Installation Configuration**
 ![Ticket 3 1](https://github.com/TDCybersecurity/osTicket-3-Post-Installation-Configuration/assets/142702123/4b13bdbd-70e6-46ce-bdae-541325a808bc)
 
