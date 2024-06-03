@@ -103,4 +103,4 @@ Go to Admin Panel \> Manage \> Help Topics\> +Add New Help Topic
 
 ![Ticket 3 10](https://github.com/TDCybersecurity/osTicket-3-Post-Installation-Configuration/assets/142702123/0995d83a-8242-44b4-9aa2-2dab08104604)
 
-# **This lab provides practical experience in Post-Installation Configuration**
+## **This lab offers hands-on experience in post installation configuration of osTicket, including roles, departments, teams, permissions, agents, users, customers, SLAs, and Help Topics.**
